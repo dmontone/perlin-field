@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "module": "CommonJS",
+    "target": "ES6",
+    "allowJs": true,
+    "moduleResolution":"Node",
+    "typeRoots": ["./src/types", "./node_modules/@types"]
+  },
+  "files": ["src/index.ts"]
+}
